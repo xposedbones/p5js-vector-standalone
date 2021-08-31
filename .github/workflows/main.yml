@@ -27,7 +27,7 @@ jobs:
       
 
       # Runs a set of commands using the runners shell
-      - name: Typescript compiler
-        # You may pin to the exact commit or the version.
-        # uses: iCrawl/action-tsc@c3f25c126c7805dbbbcbf6f1db0c3be6f5dac069
-        uses: iCrawl/action-tsc@v1
+      - name: Install and compile
+        run: |
+          yarn
+          tsc
