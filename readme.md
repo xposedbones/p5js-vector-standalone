@@ -1,6 +1,6 @@
 # Typescript standalone port of the wonderful Vector library from p5.js.
 
-Ported from (here)[https://github.com/processing/p5.js/blob/main/src/math/p5.Vector.js]
+Ported from [here](https://github.com/processing/p5.js/blob/main/src/math/p5.Vector.js)
 
 ## Usage
 ```ts
@@ -55,4 +55,4 @@ vec1.add(vec2); // vec1 = {x: 30, y: 10, z: 0};
 * normalize()
 
 # Thanks
-Huge thanks to everyone involved with (p5.js)[https://github.com/processing/p5.js/]
+Huge thanks to everyone involved with [p5.js](https://github.com/processing/p5.js/)
