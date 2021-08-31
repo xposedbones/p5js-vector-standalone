@@ -1,5 +1,5 @@
 {
-  "name": "p5.js-vector-standalone",
+  "name": "p5js-vector-standalone",
   "version": "1.0.0",
   "description": "Typescript standalone port of the wonderful Vector library from p5.js.",
   "main": "dist/index.js",
