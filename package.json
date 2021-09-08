@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/xposedbones/p5.js-Vector-standalone.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
